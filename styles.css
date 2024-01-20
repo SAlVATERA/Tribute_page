@@ -1,3 +1,7 @@
+body{
+  overflow: hidden;
+}
+
 #main {
   background-color: #EAEDED;
   align-content: center;
